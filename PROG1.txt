@@ -8,3 +8,13 @@
 8. Puerta — https://dle.rae.es/puerta
 9. Reloj — https://dle.rae.es/reloj
 10. Nube — https://dle.rae.es/nube
+11. árbol https://dle.rae.es/%C3%A1rbol
+12. casa https://dle.rae.es/casa
+13. libro https://dle.rae.es/libro
+14. ordenador https://dle.rae.es/ordenador
+15. montaña https://dle.rae.es/monta%C3%B1a
+16. camino https://dle.rae.es/camino
+17. agua https://dle.rae.es/agua
+18. sol https://dle.rae.es/sol
+19. ventana https://dle.rae.es/ventana
+20. universidad https://dle.rae.es/universidad
